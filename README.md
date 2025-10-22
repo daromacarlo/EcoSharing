@@ -2,6 +2,8 @@
 [![Focus](https://img.shields.io/badge/focus-User%20Experience-blueviolet)]()
 
 # 🌱 EcoSharing - Progetto di Interazione Uomo-Macchina (Sapienza Università di Roma)
+Semplice applicazione che consente di condividere viaggi con altri utenti, il tutto finalizzato a ridurre le emissioni e gli sprechi
+
 <p align="center">
   <img width="597" height="594" alt="Cattura" src="https://github.com/user-attachments/assets/2e4aff39-a1b8-4f74-9f30-90191e89bf62" />
 </p>
