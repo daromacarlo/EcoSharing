@@ -1,7 +1,7 @@
 [![Domain](https://img.shields.io/badge/domain-Interazione%20Uomo--Macchina-brightgreen)]()
 [![Focus](https://img.shields.io/badge/focus-User%20Experience-blueviolet)]()
 
-# 🌱 EcoSharing - Progetto di Interazione Uomo-Macchina (Sapienza Università di Roma )
+# 🌱 EcoSharing - Progetto di Interazione Uomo-Macchina (Sapienza Università di Roma)
 Semplice applicazione che consente di condividere viaggi con altri utenti, il tutto finalizzato a ridurre le emissioni e gli sprechi
 
 <p align="center">
